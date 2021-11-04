@@ -35,3 +35,4 @@ var operator = prompt("pick an operator")
 
 
 console.log(calculator(num1, num2, operator))
+console.log("second");
